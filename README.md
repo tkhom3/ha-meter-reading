@@ -29,4 +29,6 @@ https://community.home-assistant.io/t/looking-for-help-using-iperl-watermeter-wi
 
 ## Gas 
 
+`sudo rtl_433 -f 912M`
+
 id: 93652251
