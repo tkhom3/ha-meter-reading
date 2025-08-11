@@ -3,6 +3,7 @@
 ## Guides
 
 - https://youtu.be/8uB-vFmEuD0?si=Epo6eAhgZ4IpgfQh
+- https://youtu.be/xOgEjd_2hnA?si=IHAdpOhic442TAJm
 
 - https://github.com/bemasher/rtlamr-collect
 - 
