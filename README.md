@@ -31,6 +31,8 @@ Meter: iPerl
 Guide: https://www.rickmakes.com/collecting-power-and-gas-meter-data-for-home-assistant-using-raspberry-pi-and-sdr/
 
 `sudo rtl_433 -f 912M`
+12 93652251 100G DLS
+Reading: 7106
 
 id: 93652251
 
