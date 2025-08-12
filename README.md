@@ -29,6 +29,8 @@ https://community.home-assistant.io/t/looking-for-help-using-iperl-watermeter-wi
 
 ## Gas 
 
+Guide: https://www.rickmakes.com/collecting-power-and-gas-meter-data-for-home-assistant-using-raspberry-pi-and-sdr/
+
 `sudo rtl_433 -f 912M`
 
 id: 93652251
