@@ -32,3 +32,9 @@ https://community.home-assistant.io/t/looking-for-help-using-iperl-watermeter-wi
 `sudo rtl_433 -f 912M`
 
 id: 93652251
+
+```
+time      : 2025-08-11 17:24:55
+model     : SCMplus      id        : 93652251
+Protocol_ID: 0x1E        Endpoint_Type: 0x9C       Endpoint_ID: 93652251     Consumption: 710600       Tamper    : 0x0F08        crc       : 0xBF64        Meter_Type: Gas           Integrity : CRC
+```
